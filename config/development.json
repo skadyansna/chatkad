@@ -1,0 +1,5 @@
+
+//Contains the user name and the password to provide an access to the database
+{"dbURL":"mongodb://chtakad:sna@ds035643.mongolab.com:35643/chatkad",
+  "sessionSecret":"ASFASFSAASFASFSA4344434"
+}
